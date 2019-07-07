@@ -1,2 +1,2 @@
 # Wemos-D1-mini-CroNixie
-A Nixie like clock with ws2812b
+A Nixie-like watch with NeoPixel LEDs
